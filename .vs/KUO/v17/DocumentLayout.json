@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KUO\\",
+  "WorkspaceRootPath": "D:\\KUO\\KUO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59433BC7-06AF-F69D-D218-15D4C1CB075D}|Assembly-CSharp.csproj|d:\\kuo\\assets\\particles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59433BC7-06AF-F69D-D218-15D4C1CB075D}|Assembly-CSharp.csproj|d:\\kuo\\kuo\\assets\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59433BC7-06AF-F69D-D218-15D4C1CB075D}|Assembly-CSharp.csproj|solutionrelative:assets\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59433BC7-06AF-F69D-D218-15D4C1CB075D}|Assembly-CSharp.csproj|d:\\kuo\\kuo\\assets\\particles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59433BC7-06AF-F69D-D218-15D4C1CB075D}|Assembly-CSharp.csproj|solutionrelative:assets\\particles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\KUO\\KUO\\Assets\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Manager.cs",
+              "ToolTip": "D:\\KUO\\KUO\\Assets\\Manager.cs",
+              "RelativeToolTip": "Assets\\Manager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:38:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Particles.cs",
-              "DocumentMoniker": "D:\\KUO\\Assets\\Particles.cs",
+              "DocumentMoniker": "D:\\KUO\\KUO\\Assets\\Particles.cs",
               "RelativeDocumentMoniker": "Assets\\Particles.cs",
-              "ToolTip": "D:\\KUO\\Assets\\Particles.cs",
+              "ToolTip": "D:\\KUO\\KUO\\Assets\\Particles.cs",
               "RelativeToolTip": "Assets\\Particles.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAD4v5IAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAArwJIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T15:08:43.017Z",
               "EditorCaption": ""
