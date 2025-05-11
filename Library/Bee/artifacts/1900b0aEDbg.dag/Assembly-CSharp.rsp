@@ -356,14 +356,6 @@
 "Assets/Particles.cs"
 "Assets/Scenes/PlayerCam.cs"
 "Assets/Scenes/PlayerMovement.cs"
-"Assets/StarterAssets/FirstPersonController/Scripts/BasicRigidBodyPush.cs"
-"Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs"
-"Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs"
-"Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs"
-"Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs"
-"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs"
-"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs"
-"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs"
 "Assets/Vec3.cs"
 -langversion:9.0
 /deterministic
